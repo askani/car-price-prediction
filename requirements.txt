@@ -14,3 +14,5 @@ requests == 2.25.1
 
 # Cardekho/app.py: 6,7
 scikit_learn == 0.23.2
+
+gunicorn
